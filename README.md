@@ -22,7 +22,9 @@ The diagram below describes in more details the worflow:
 
 Follow the steps below to try the workflow yourself
 
->Steps go here
+1. Fork this repository and the sample app repository [here](https://github.com/melzayet/arc-sample-app)
+
+> More steps go here
 
 ## Contributing
 
